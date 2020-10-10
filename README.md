@@ -1,2 +1,0 @@
-# python
-everything in python
