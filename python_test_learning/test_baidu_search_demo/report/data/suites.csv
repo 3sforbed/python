@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 10 20:22:45 CST 2020","Sat Oct 10 20:22:59 CST 2020","13930","test_baidu_search_demo","test_baidu_search_demo","","","","test_steps_demo[pytest]",""
+"passed","Sat Oct 10 20:22:31 CST 2020","Sat Oct 10 20:22:45 CST 2020","13900","test_baidu_search_demo","test_baidu_search_demo","","","","test_steps_demo[allure]",""
+"passed","Sat Oct 10 20:22:59 CST 2020","Sat Oct 10 20:23:13 CST 2020","13945","test_baidu_search_demo","test_baidu_search_demo","","","","test_steps_demo[unittest]",""

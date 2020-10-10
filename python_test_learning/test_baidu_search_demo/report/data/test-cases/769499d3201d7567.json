@@ -1,0 +1,142 @@
+{
+  "uid" : "769499d3201d7567",
+  "name" : "test_steps_demo[unittest]",
+  "fullName" : "test_baidu_search_demo.test_baidu_search_demo#test_steps_demo",
+  "historyId" : "84dbe05994bafea2e780499f67f1f3c6",
+  "time" : {
+    "start" : 1602332579720,
+    "stop" : 1602332593665,
+    "duration" : 13945
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "step one:打开浏览器输入百度网址",
+      "time" : {
+        "start" : 1602332579720,
+        "stop" : 1602332583781,
+        "duration" : 4061
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "step two:在搜索栏输入allure，并点击百度一下",
+      "time" : {
+        "start" : 1602332583781,
+        "stop" : 1602332591020,
+        "duration" : 7239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "step three:截图保存到项目中",
+      "time" : {
+        "start" : 1602332591020,
+        "stop" : 1602332591437,
+        "duration" : 417
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "729cc9a2e616168f",
+        "name" : "3ebeb797-4c31-4cca-b142-cf6b7df31a79-attachment.png",
+        "source" : "729cc9a2e616168f.png",
+        "type" : "image/png",
+        "size" : 219303
+      }, {
+        "uid" : "4c2282941a9c2b2a",
+        "name" : "Attach with HTML type",
+        "source" : "4c2282941a9c2b2a.html",
+        "type" : "text/html",
+        "size" : 32
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "step four:关闭浏览器，退出",
+      "time" : {
+        "start" : 1602332591437,
+        "stop" : 1602332593664,
+        "duration" : 2227
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_baidu_search_demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu_search_demo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T1M9SAM"
+  }, {
+    "name" : "thread",
+    "value" : "11512-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_baidu_search_demo.test_baidu_search_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_data1",
+    "value" : "'unittest'"
+  } ],
+  "links" : [ {
+    "name" : "https://www.baidu.com/的搜索功能",
+    "url" : "https://www.baidu.com/的搜索功能",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "769499d3201d7567.json",
+  "parameterValues" : [ "'unittest'" ]
+}
