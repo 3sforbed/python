@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@File    :   fight_game_demo.py    
+@File    :   python_fight_game_demo01.py
 @Contact :   wangdamar@gmail.com
 @License :   GPL v3
 
